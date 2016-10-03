@@ -3,7 +3,7 @@ Particle device assistance library
 
 My plans here are to add a library of useful functions for inclusion into other Particle hardware projects so that they are just available when needed. Most of the functions are intended to be called from the Cloud without much (any?) application support, and to provide an easy and standard interface from within the application.
 
-Things I've thought of so far that seem useful to me, in no particular order.
+Things I've thought of so far that seem useful to me, in no particular order.  
 1. Report network details  
 2. Report memory usage and available  
 3. Reset device from cloud  
